@@ -1,0 +1,11 @@
+Citrus Healthy
+Citrus Nitrogen Deficiency
+Citrus Phosphorous Deficiency
+Citrus Pottassium Deficiency
+Groundnut Healthy
+Groundnut Nitrogen Deficiency
+Groundnut Pottassium Deficiency
+Groundnut Sulfur Deficiency
+Guava Healthy
+Guava Nitrogen Deficiency
+Guava Pottassium Deficiency
